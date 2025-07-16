@@ -1,5 +1,5 @@
-first_name = " "
-second_name = " "
+first_name = "Jo"
+second_name = "Rimam"
 
 address = ""
 state = ""
