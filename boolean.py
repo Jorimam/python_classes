@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 '''
 first_name = " "
 second_name = " "
+=======
+first_name = "Jo"
+second_name = "Rimam"
+>>>>>>> a0ae8c7054b17d5e3f68df27e1541e3b29137388
 
 address = ""
 state = 0.
