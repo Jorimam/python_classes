@@ -76,7 +76,21 @@ second_number = input("")
 
 exp =float(first_number) ** float(second_number)
 
-print(f" {first_number} divided by {second_number} is {exp:,.2f}")
+print(f" {first_number} exponential {second_number} is {exp:,.2f}")
+print("----------------------------------")
+
+#Floor Division
+print("Enter two numbers to carry Floor division")
+
+print("First number")
+first_number = input("")
+
+print("Socond Number")
+second_number = input("")
+
+floor =float(first_number) // float(second_number)
+
+print(f" {first_number} floor {second_number} is {floor:,.2f}")
 print("----------------------------------")
 
 
